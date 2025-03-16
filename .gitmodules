@@ -1,0 +1,12 @@
+[submodule "mail-client"]
+	path = mail-client
+	url = https://github.com/flaviandiold/krypt-mail-app.git
+[submodule "vm-conf"]
+	path = vm-conf
+	url = https://github.com/flaviandiold/krypt-mail-local-conf.git
+[submodule "public-client"]
+	path = public-client
+	url = https://github.com/flaviandiold/krypt-mail-frontend.git
+[submodule "server"]
+	path = server
+	url = https://github.com/flaviandiold/krypt-mail-server.git
